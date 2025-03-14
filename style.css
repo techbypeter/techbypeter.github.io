@@ -27,8 +27,8 @@ header{
 }
 p{
     font-family: 'Permanent Marker', cursive;
-article{
-    max-width:500px
+article {
+    max-width: 500px;
     padding: 20px;
     margin: 0 auto;
 }
