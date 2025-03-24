@@ -35,3 +35,7 @@ article {
 footer{
     font-family: 'Rampart One', sans-serif;
 }
+    img {
+  border-radius: 50%;
+}
+
