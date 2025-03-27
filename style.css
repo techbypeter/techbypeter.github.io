@@ -18,6 +18,8 @@ header{
     text-align: center;
     background-image: url(images/header.jpg);
     background-size: cover;
+    border-style: dashed;
+    border-width:5 px;
 }
 .header{
     color:antiquewhite;
