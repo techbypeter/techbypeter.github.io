@@ -19,7 +19,7 @@ header{
     background-image: url(images/header.jpg);
     background-size: cover;
     border-style: dashed;
-    border-width:5 px;
+    border-width:10 px;
 }
 .header{
     color:antiquewhite;
